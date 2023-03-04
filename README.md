@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 This is my main GitHub page. Still building this site...
+![](https://komarev.com/ghpvc/?username=UO271572e&color=orange&style=flat-square&label=Times+Viewed)
+
+# 🌱 I’m currently learning ...
+Currently learning at Software Engineering University in Oviedo.
 
 <!--
 **UO271572/UO271572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
