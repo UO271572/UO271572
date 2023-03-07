@@ -4,6 +4,14 @@
 # 🌱 I’m currently learning ...
 Currently learning at Software Engineering University in Oviedo.
 
+
+# ⌨ Languages used
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,dotnet,js,powershell,arduino" />
+</div>
+
+
+
 <!--
 **UO271572/UO271572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
