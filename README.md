@@ -24,7 +24,7 @@ Coming soon...<a href="https://github.com/UO271572"><img height="30" src="https:
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" 
          alt="Android" title="Android" />
 </div>
-
+ 
 # My stats
 ![Sergio´s GitHub stats](https://github-readme-stats.vercel.app/api?username=UO271572&theme=cobalt&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UO271572&layout=compact)
