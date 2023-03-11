@@ -36,8 +36,8 @@ Hint: not every proyect I made it`s on git ;)
 
 ## How to reach me 📫
 Check my emails here: 
-* Outlook 1: <a href="mailto:UO271572@uniovi.es"> <img src=""></a> 
-* Outlook 2: <a href="mailto:sergio_colloto@hotmail.com"> <img src=""></a> 
+* Outlook 1: <a href="mailto:UO271572@uniovi.es"> <img src="/images/outlook.png"></a> 
+* Outlook 2: <a href="mailto:sergio_colloto@hotmail.com"> <img src="/images/outlook.png"></a> 
 
 ## My hobbies and interests 👾
 * Hacking and security (the good ones). 🔐
