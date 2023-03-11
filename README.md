@@ -2,20 +2,21 @@
 ![](https://komarev.com/ghpvc/?username=UO271572e&color=orange&style=flat-square&label=Times+Viewed)
 
 # Currently learning 🌱
-Currently learning at Software Engineering University in Oviedo.
+Currently learning at Software Engineering University in Oviedo. Im building myself to be a fullstack developer and always learning new tecnologies.
+
 
 Coming soon...<a href="https://github.com/UO271572"><img height="30" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 
 
-# Languages used ⌨
+## Languages used ⌨
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cs,cpp,dotnet" />
     <br>
     <img src="https://skillicons.dev/icons?i=js,powershell,arduino" />
 </div>
 
-# Tecnologies 🚀
+## Tecnologies 🚀
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,nodejs" />
     <br>
@@ -25,28 +26,27 @@ Coming soon...<a href="https://github.com/UO271572"><img height="30" src="https:
          alt="Android" title="Android" />
 </div>
  
-# My stats
+## My stats
+Hint: not every proyect I made it`s on git ;)
+
+
 ![Sergio´s GitHub stats](https://github-readme-stats.vercel.app/api?username=UO271572&theme=cobalt&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UO271572&layout=compact)
 
-<!--
-**UO271572/UO271572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## How to reach me 📫
+Check my emails here: 
+* Outlook 1: <a href="mailto:UO271572@uniovi.es"> <img src=""></a> 
+* Outlook 2: <a href="mailto:sergio_colloto@hotmail.com"> <img src=""></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# How to reach me 📫
+## My hobbies and interests 👾
+* Hacking and security (the good ones). 🔐
+* All about the universe and its mysteries. 🪐
+* History lover. 🏛
+* Free time spending on games, podcasts. ⏳
 
 
+## Fun facts
 
-# Fun facts
 
 
