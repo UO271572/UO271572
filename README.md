@@ -11,7 +11,7 @@ Coming soon...<a href="https://github.com/UO271572"><img height="30" src="https:
 
 ## Languages used ⌨
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java,cs,py,cpp,dotnet" />
     <br>
     <img src="https://skillicons.dev/icons?i=js,powershell,arduino" />
 </div>
